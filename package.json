@@ -12,7 +12,7 @@
     "sfdx-plugin"
   ],
     "dependencies": {
-      "bluebird": "3.4.6"
+      "bluebird": "3.7.2"
   },
   "license": "MIT"
 }
